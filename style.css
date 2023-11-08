@@ -109,18 +109,16 @@ footer {
     position: absolute;
     left: 1325px;
     top: 0px;
-    font-size: 25px;
+    font-size: 35px;
     text-align: right;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52fGtjbhgi-QDffjJKMCvbPcigD6TwfvQXA&usqp=CAU);
     background-size: 500px;
     background-repeat: no-repeat;
     background-size: 550px;
-    height: 300px;
-    width: 550px;
     color: deepskyblue;
     border: solid;
     border-color: blue;
-    height: 300px;
+    height: 200px;
     width: 500px;
 }
 
